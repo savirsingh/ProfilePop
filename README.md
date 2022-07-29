@@ -23,3 +23,7 @@
 #### How To Embed (Obviously Not Sponsored):
 1. Copy this: <iframe src="https://savirsingh.github.io/ProfilePop/helloworld?YOURNAME" height="300px" width="600px" style="border:0px">
 2. Paste it somewhere it'll work. Usually websites and some markdown files.
+
+### Be sure to support!
+Optionally add the following to show your support:
+I made that super cool badge on my profile using https://savirsingh.github.io/ProfilePop/
