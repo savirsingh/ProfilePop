@@ -1,0 +1,21 @@
+<svg>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ProfilePop by Savir Singh - Hello World Badge</title>
+<link rel="stylesheet" href="main.css">
+</head>
+<body>
+
+<p style="font-size: 24px; color: white; padding: 20px; background-color: #6e7175; width: 480px" id="nom">Hello, world! I'm</p>
+
+
+<script>
+var name = (window.location.href).split('?')[1];
+var firstname = name.split('%20')[0];
+var lastname = name.split('%20')[1];
+
+document.getElementById("nom").innerHTML = document.getElementById("nom").innerHTML + " " + name + "." + " <br><span style='font-size: 14px'>github.com/savirsingh/profilepop</span>";
+</script>
+
+</body>
+</svg>
