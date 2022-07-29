@@ -5,3 +5,5 @@
 
 ### Make the Hello, world! badge for your profile:
 Go to https://savirsingh.github.io/ProfilePop/helloworld?YOURNAME
+
+Then you can (externally) convert it to a GIF if you'd like.
