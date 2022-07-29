@@ -11,6 +11,8 @@
 
 3. Then you can (externally) convert the video to a GIF.
 
+4. Alternatively, you can copy the embed code and add your new badge to a website or something.
+
 #### Recommended Screen Recording Platforms (Not Sponsored):
 - Microsoft Powerpoint
 
