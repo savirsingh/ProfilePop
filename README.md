@@ -10,3 +10,10 @@
 2. Then you can (externally) screen record the animated badge.
 
 3. Then you can (externally) convert the video to a GIF.
+
+#### Recommended Screen Recording Platforms (Not Sponsored):
+- Microsoft Powerpoint
+
+#### Recommended Video To GIF Converters (Not Sponsored):
+- Ezgif
+- Adobe Express
