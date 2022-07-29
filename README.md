@@ -28,6 +28,6 @@
 Optionally add the following to show your support:
 
 I made that super cool badge on my profile using https://savirsingh.github.io/ProfilePop/
-
+<br><br>
 
 Thinking of donating? Don't! Just write me a friendly email (kopichiki@gmail.com) and review this product. Be honest please, and give me any suggestions you have! This will encourage me to keep going and make this better!
