@@ -19,3 +19,7 @@
 #### Recommended Video To GIF Converters (Not Sponsored):
 - Ezgif
 - Adobe Express
+
+#### How To Embed (Obviously Not Sponsored):
+1. Copy this: <iframe src="https://savirsingh.github.io/ProfilePop/helloworld?YOURNAME" height="300px" width="600px" style="border:0px">
+2. Paste it somewhere it'll work. Usually websites and some markdown files.
